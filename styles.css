@@ -1,1 +1,30 @@
 /* your code */
+.tables{
+	border: 1px solid black;
+	margin:auto;
+	/* border-spacing: 2px 0; */
+	padding:0px 1px;
+	
+}
+.broken{
+	margin:3px;
+	padding:5rpx;
+	align-items:right;
+	justify-content:center;
+	word-spacing: 1px;
+	background:white;
+
+}
+.lift{
+	background-color:blue;
+	color:white;
+}
+
+tr:nth-child(even){
+	background-color: green;
+}
+
+
+
+
+
